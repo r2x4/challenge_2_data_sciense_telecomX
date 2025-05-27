@@ -8,7 +8,7 @@ Fuente de Datos:
 Archivo JSON disponible en repositorio público de GitHub
 TelecomX_Data.json
 
-Enlace Trello : 
+# Enlace Trello : 
 https://trello.com/invite/b/683247a011cf16e825d3cdf2/ATTI77e7946a6efee162ac71e998a09da9f8E46F69D8/desafiotelecomxlatam
 
 <p align="center"> Estado del proyecto: Finalizado </p> <div align="justify" style="width: 80%; margin: 0 auto;"> Este análisis fue desarrollado para una empresa del sector de telecomunicaciones (TelecomX), con el propósito de identificar los factores que inciden en la cancelación del servicio por parte de los clientes.
@@ -22,34 +22,38 @@ TelecomX_Retencion.ipynb: Notebook con el procesamiento, análisis y visualizaci
 Base de Datos
 TelecomX_Data.json
 
-Imagenes
+# Gráficas generadas
 
-Uso de git
+## Uso de git
+
 ![image](https://github.com/user-attachments/assets/822eb737-f6b9-4356-a322-357e1c308ddc)
 
-Gráficas generadas
-Distribucion de estado de Clientes
+
+## Distribucion de estado de Clientes
+
 ![image](https://github.com/user-attachments/assets/ccdefc2c-434b-4fe2-89f9-30864dde0980)
 
-Cancelación segun Variables de Categorias
+## Cancelación segun Variables de Categorias
 
 ![image](https://github.com/user-attachments/assets/ba052afd-fe59-4954-b96f-5aab058fd5a0)
 
-Relación entre cargos mensuales y cancelación
+## Relación entre cargos mensuales y cancelación
+
 ![image](https://github.com/user-attachments/assets/f3b89d62-7363-4884-8cc1-ede1a0ff806a)
 
 ![image](https://github.com/user-attachments/assets/3d6afd95-1c6d-4cbf-9491-3982e8325a4b)
 
 ![image](https://github.com/user-attachments/assets/b6d318c8-2e43-4548-b383-403e6436747e)
 
-Análisis Estratégico para la Mejora del Servicio
-Situación
+# Análisis Estratégico para la Mejora del Servicio
+
+## Situación
 La empresa TelecomX registra una alta tasa de cancelación en determinados perfiles de clientes, especialmente en los más recientes y con contratos de menor duración.
 
-Propuesta
+## Propuesta
 No recortar personal ni cerrar servicios. En su lugar, invertir en estrategias de fidelización, mejora de percepción de valor y atención personalizada.
 
-Evaluación Global
+## Evaluación Global
 Tipo de contrato
 Los clientes con contrato mensual presentan una tasa de cancelación mucho mayor que aquellos con contratos anuales o bianuales.
 
@@ -95,11 +99,12 @@ Añadir beneficios adicionales: almacenamiento en la nube, soporte extendido, se
 
 Comunicar mejor lo que se incluye en cada plan.
 
-Conclusión
+# Conclusión
+
 La cancelación de clientes es un síntoma, no la causa del problema.
 El análisis de datos evidencia que se puede actuar sin recortar operaciones, mejorando la experiencia y percepción del cliente desde el primer contacto.
 
-La clave está en:
+## Aspectos a mejorar:
 
 Anticiparse con datos
 
