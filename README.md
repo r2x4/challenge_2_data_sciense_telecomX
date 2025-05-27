@@ -1,3 +1,105 @@
 # challenge_2_data_sciense_telecomX
-# https://trello.com/b/GHdwl7SD/desafiotelecomxlatam
-# Enlace Trello : https://trello.com/invite/b/683247a011cf16e825d3cdf2/ATTI77e7946a6efee162ac71e998a09da9f8E46F69D8/desafiotelecomxlatam
+Análisis de Cancelación de Clientes - Servicios de Internet.
+Proyecto: TelecomX Retención de Clientes
+Lenguaje de Tratamiento de Datos: Python
+IDE de uso: Google Colab
+Visualización de Datos: Bibliotecas Matplotlib y Seaborn
+Fuente de Datos:
+Archivo JSON disponible en repositorio público de GitHub
+TelecomX_Data.json
+
+Enlace Trello : 
+https://trello.com/invite/b/683247a011cf16e825d3cdf2/ATTI77e7946a6efee162ac71e998a09da9f8E46F69D8/desafiotelecomxlatam
+
+<p align="center"> Estado del proyecto: Finalizado </p> <div align="justify" style="width: 80%; margin: 0 auto;"> Este análisis fue desarrollado para una empresa del sector de telecomunicaciones (TelecomX), con el propósito de identificar los factores que inciden en la cancelación del servicio por parte de los clientes.
+Se utilizaron técnicas de análisis exploratorio de datos sobre un archivo en formato JSON, que contiene variables demográficas, contractuales, técnicas y financieras. El análisis se ejecutó en Google Colab, utilizando Python y librerías como Seaborn y Matplotlib para visualizar patrones de comportamiento.
+
+La meta es obtener insumos claros para decisiones estratégicas que ayuden a mejorar la fidelización, la atención al cliente y la eficiencia en los procesos de contratación y facturación.
+
+</div>
+Archivos del proyecto
+TelecomX_Retencion.ipynb: Notebook con el procesamiento, análisis y visualización de cancelaciones.
+Base de Datos
+TelecomX_Data.json
+
+Imagenes
+
+Gráficas generadas
+Cancelación por tipo de contrato
+
+
+Cancelación por método de pago
+
+
+Cancelación según antigüedad del cliente
+
+
+Relación entre cargos mensuales y cancelación
+
+
+Análisis Estratégico para la Mejora del Servicio
+Situación
+La empresa TelecomX registra una alta tasa de cancelación en determinados perfiles de clientes, especialmente en los más recientes y con contratos de menor duración.
+
+Propuesta
+No recortar personal ni cerrar servicios. En su lugar, invertir en estrategias de fidelización, mejora de percepción de valor y atención personalizada.
+
+Evaluación Global
+Tipo de contrato
+Los clientes con contrato mensual presentan una tasa de cancelación mucho mayor que aquellos con contratos anuales o bianuales.
+
+Esto sugiere menor compromiso o una experiencia temprana poco satisfactoria.
+
+Clientes nuevos
+Aquellos con menos de 6 meses de antigüedad cancelan más frecuentemente.
+
+Es necesario establecer acciones de seguimiento durante los primeros meses.
+
+Método de pago
+El uso de cheque electrónico se asocia con una mayor tasa de cancelación.
+
+Puede deberse a baja adopción digital o dificultades en el proceso de pago.
+
+Servicio técnico y tipo de conexión
+Usuarios con servicio de fibra óptica presentan cancelaciones altas, lo que puede estar relacionado con expectativas incumplidas o problemas técnicos no resueltos.
+
+Cargos mensuales
+Clientes con cargos elevados son más sensibles a la cancelación, especialmente si no perciben un beneficio claro o diferencial.
+
+Estrategias Recomendadas
+Incentivos para contratos largos
+Bonificaciones, descuentos exclusivos o servicios complementarios al contratar anual o bianual.
+
+Programa de bienvenida
+Acompañamiento personalizado para nuevos clientes durante los primeros 90 días.
+
+Soporte técnico preferente, asesoría en configuración y comunicación constante.
+
+Digitalización de medios de pago
+Promover la automatización y modernización en los pagos.
+
+Incluir promociones para quienes migran a pagos electrónicos recurrentes.
+
+Revisión del servicio de fibra óptica
+Evaluar la experiencia real del cliente frente a lo ofrecido.
+
+Identificar zonas de alta cancelación para reforzar infraestructura o soporte.
+
+Valor agregado al plan
+Añadir beneficios adicionales: almacenamiento en la nube, soporte extendido, seguridad digital.
+
+Comunicar mejor lo que se incluye en cada plan.
+
+Conclusión
+La cancelación de clientes es un síntoma, no la causa del problema.
+El análisis de datos evidencia que se puede actuar sin recortar operaciones, mejorando la experiencia y percepción del cliente desde el primer contacto.
+
+La clave está en:
+
+Anticiparse con datos
+
+Personalizar la atención
+
+Incentivar el compromiso
+
+Tomar decisiones con base en evidencia, no en suposiciones.
