@@ -28,17 +28,19 @@ Uso de git
 ![image](https://github.com/user-attachments/assets/822eb737-f6b9-4356-a322-357e1c308ddc)
 
 Gráficas generadas
-Cancelación por tipo de contrato
+Distribucion de estado de Clientes
+![image](https://github.com/user-attachments/assets/ccdefc2c-434b-4fe2-89f9-30864dde0980)
 
+Cancelación segun Variables de Categorias
 
-Cancelación por método de pago
-
-
-Cancelación según antigüedad del cliente
-
+![image](https://github.com/user-attachments/assets/ba052afd-fe59-4954-b96f-5aab058fd5a0)
 
 Relación entre cargos mensuales y cancelación
+![image](https://github.com/user-attachments/assets/f3b89d62-7363-4884-8cc1-ede1a0ff806a)
 
+![image](https://github.com/user-attachments/assets/3d6afd95-1c6d-4cbf-9491-3982e8325a4b)
+
+![image](https://github.com/user-attachments/assets/b6d318c8-2e43-4548-b383-403e6436747e)
 
 Análisis Estratégico para la Mejora del Servicio
 Situación
