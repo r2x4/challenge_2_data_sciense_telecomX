@@ -23,6 +23,7 @@ Base de Datos
 TelecomX_Data.json
 
 Imagenes
+
 Uso de git
 ![image](https://github.com/user-attachments/assets/822eb737-f6b9-4356-a322-357e1c308ddc)
 
