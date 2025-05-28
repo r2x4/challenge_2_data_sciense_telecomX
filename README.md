@@ -1,11 +1,11 @@
 # **Desafio challenge_2_data_sciense_telecomX**
 
-Análisis de Cancelación de Clientes - Servicios de Internet.
-Proyecto: TelecomX Retención de Clientes
-Lenguaje de Tratamiento de Datos: Python
-IDE de uso: Google Colab
-Visualización de Datos: Bibliotecas Matplotlib y Seaborn
-Fuente de Datos:
+- Análisis de Cancelación de Clientes - Servicios de Internet.
+- Proyecto: TelecomX Retención de Clientes
+- Lenguaje de Tratamiento de Datos: Python
+- IDE de uso: Google Colab, Jupyter
+- Visualización de Datos: Bibliotecas Matplotlib y Seaborn
+- Fuente de Datos:
 Archivo JSON disponible en repositorio público de GitHub
 TelecomX_Data.json
 
