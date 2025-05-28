@@ -55,6 +55,13 @@ La empresa TelecomX registra una alta tasa de cancelación en determinados perfi
 No recortar personal ni cerrar servicios. En su lugar, invertir en estrategias de fidelización, mejora de percepción de valor y atención personalizada.
 
 ## Evaluación Global
+Situación
+La empresa TelecomX registra una alta tasa de cancelación en determinados perfiles de clientes, especialmente en los más recientes y con contratos de menor duración.
+
+Propuesta
+No recortar personal ni cerrar servicios. En su lugar, invertir en estrategias de fidelización, mejora de percepción de valor y atención personalizada.
+
+Evaluación Global
 Tipo de contrato
 Los clientes con contrato mensual presentan una tasa de cancelación mucho mayor que aquellos con contratos anuales o bianuales.
 
@@ -76,7 +83,8 @@ Usuarios con servicio de fibra óptica presentan cancelaciones altas, lo que pue
 Cargos mensuales
 Clientes con cargos elevados son más sensibles a la cancelación, especialmente si no perciben un beneficio claro o diferencial.
 
-Estrategias Recomendadas
+# Estrategias Recomendadas
+
 Incentivos para contratos largos
 Bonificaciones, descuentos exclusivos o servicios complementarios al contratar anual o bianual.
 
