@@ -24,11 +24,13 @@ Base de Datos
 TelecomX_Data.json
 
 # Gráficas generadas
+## Proyecto
+
+![image](https://github.com/user-attachments/assets/1b49c08c-c3e9-4bb1-86c9-63ffa6901927)
 
 ## Uso de git
 
 ![image](https://github.com/user-attachments/assets/822eb737-f6b9-4356-a322-357e1c308ddc)
-
 
 ## Distribucion de estado de Clientes
 
