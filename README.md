@@ -4,7 +4,7 @@
 - Proyecto: TelecomX Retención de Clientes
 - Lenguaje de Tratamiento de Datos: Python
 - IDE de uso: Google Colab, Jupyter
-- Visualización de Datos: Bibliotecas Matplotlib y Seaborn
+- Visualización de Datos: Bibliotecas Matplotlib, plotly y Seaborn
 - Fuente de Datos:
 Archivo JSON disponible en repositorio público de GitHub
 TelecomX_Data.json
