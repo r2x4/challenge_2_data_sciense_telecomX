@@ -67,9 +67,6 @@ Los clientes con contrato mensual presentan una tasa de cancelación mucho mayor
 
 Esto sugiere menor compromiso o una experiencia temprana poco satisfactoria.
 
-Clientes nuevos
-Aquellos con menos de 6 meses de antigüedad cancelan más frecuentemente.
-
 Es necesario establecer acciones de seguimiento durante los primeros meses.
 
 Método de pago
