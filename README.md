@@ -1,6 +1,5 @@
-
-
 # **Desafio challenge_2_data_sciense_telecomX**
+
 Análisis de Cancelación de Clientes - Servicios de Internet.
 Proyecto: TelecomX Retención de Clientes
 Lenguaje de Tratamiento de Datos: Python
